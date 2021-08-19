@@ -14,7 +14,7 @@ https://drive.google.com/file/d/1bnaPR_aesG95_4m9XEHwrnKNMH92R13u/view
 ## Team Members
 1. Ashish Peter Rajeev( https://github.com/AshishPeterRajeev)
 2. Athira CS (https://github.com/Athira-CS)
-Eg- [@Dexters-Hub](https://www.github.com/Dexters-Hub)
+
 
   
 ## Tech Stack
