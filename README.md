@@ -1,30 +1,30 @@
 <img src="banner/banner.gif" width="100%" height="">
 
-# Project Title
+# Attendance Checker
 
-A brief description of what this project does and who it's for
+Attendance checker is used to create a list of absentees from a database and to find people who is not in the list.
 
 
 ## Demo + Video
 
 Insert gif or link to demo, or video
-[link to video]
+https://drive.google.com/file/d/1bnaPR_aesG95_4m9XEHwrnKNMH92R13u/view
 
   
 ## Team Members
-1. Name [Embed personal github URL]
-2. Name [Embed perosnal github URL]
+1. Ashish Peter Rajeev( https://github.com/AshishPeterRajeev)
+2. Athira CS (https://github.com/Athira-CS)
 Eg- [@Dexters-Hub](https://www.github.com/Dexters-Hub)
 
   
 ## Tech Stack
 
-Eg: Flutter, Python, Html, CSS, JavaScript
+ Python
 
   
 ## Working of the project
 
-1. Explaining the working of project
+1.Project used to compare to list of people.Output the names of absentees and people who are not in the list
 2. Embed video of project demo
 
   
@@ -40,7 +40,7 @@ Examples:
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+ https://github.com/Avani2000/HFH_Project.git
 ```
 
 Go to the project directory
